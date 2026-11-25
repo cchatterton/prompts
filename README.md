@@ -15,6 +15,10 @@ Or, for a transcript:
 
 > Use `https://github.com/cchatterton/prompts`. Act as the agent in `agents/Personal Assistant.md` and do `prompts/Summarise this transcript.md` using the transcript below: [transcript].
 
+For notes ready to paste into WIP:
+
+> Use `https://github.com/cchatterton/prompts`. Act as the agent in `agents/Personal Assistant.md` and do `prompts/Create WIP notes from a transcript.md` using the transcript below: [transcript].
+
 You can refer to an agent or prompt by its filename when the choice is clear. Include a URL, transcript, document, or other input required by the chosen prompt.
 
 ## For Codex
